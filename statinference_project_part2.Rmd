@@ -1,6 +1,6 @@
 ---
 title: 'Statistical Inference Course Project, Part 2: Basic Inferential Data Analysis'
-author: "Sefa Kilic"
+author: "Tomy"
 output:
   html_document: default
   pdf_document:
