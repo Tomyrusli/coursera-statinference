@@ -1,7 +1,6 @@
 # Statistical Inference Course Project, Part 1: Simulation Exercises
 
 
-
 The exponential distribution can be simulated in R with `rexp(n, lambda)` where
 `lambda` $\lambda$ is the rate parameter. The mean of exponential distribution is 
 $1/\lambda$ and the standard deviation is also $1/\lambda$. For this simulation,
