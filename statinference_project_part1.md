@@ -61,5 +61,5 @@ Note that the true rate, $\lambda$ is 5.
 <!--
 ---
 The report including the code for plots is available at
-http://github.com/Tomyrusli/statinference/statinference_project_part1.md
+http://github.com/Tomyrusli/coursera-statinference/statinference_project_part1.md
 -->
